@@ -6,14 +6,9 @@
 
 ## About me
 
-
 <p>I am a Quality Analyst at Fractalia Group, a large Spanish company that provides technological services.
 Here Im responsible for auditing, monitoring, evaluating and improving internal processes, ensuring that the services provided
 meet customer expectations and comply with standards.</p>
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ismaelthe10&layout=compact&bg_color=000&border_color=30A3DC&title_color=E071121&text_color=FFF)
-
-
 
 ## Tecnologias
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
