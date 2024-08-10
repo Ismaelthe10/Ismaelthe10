@@ -3,11 +3,6 @@
 <p aling="center">My name is Ismael, I have a degree in Software Analysis and Development and I'm currently working in improving my skills in the technology area with the goals of becoming a Full Stack Developer!</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/impismael/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ismaelthe10)
-## About me
-
-<p>I am a Quality Analyst at Fractalia Group, a large Spanish company that provides technological services.
-Here Im responsible for auditing, monitoring, evaluating and improving internal processes, ensuring that the services provided
-meet customer expectations and comply with standards.</p>
 
 ## Tecnologias
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
